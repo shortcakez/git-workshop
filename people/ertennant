@@ -1,0 +1,9 @@
+def helloWorld: 
+    print("Hello World!")
+
+def meow: 
+    print("meow")
+
+def aaaa: 
+    print("aaaa")
+
