@@ -1,5 +1,7 @@
 fn main() {
-    println!("Hello Worldddzz!");
+    let a = 5;
+
+    println!("Testing Hello Worldddzz! {}", a);
 }
 
 fn test() {
